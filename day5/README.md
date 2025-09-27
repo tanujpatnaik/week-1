@@ -65,7 +65,7 @@ If a signal is not assigned in all branches, synthesis may infer a latch.
 ### Examples
 ### 1.incomp_if
 
-<img width="970" height="250" alt="incomplete if verilog code" src="https://github.com/user-attachments/assets/b86be870-620b-43b0-818a-dea6957178c6" />
+<img width="970" height="205" alt="1 ris" src="https://github.com/user-attachments/assets/1fd33986-9030-4e5d-9506-b67b1c328216" />
 
 - The verilog code contains a incomplete if-statement.
 
