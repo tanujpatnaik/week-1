@@ -64,3 +64,5 @@ write_verilog -noattr good_mux_netlist.v
 ```
 <img width="993" height="600" alt="image" src="https://github.com/user-attachments/assets/7a89fdf6-5e5e-490f-b153-59768e42f491" />
 
+
+<img width="1202" height="652" alt="image" src="https://github.com/user-attachments/assets/ed4905e7-d3a2-4442-9894-10aeb8588e31" />
